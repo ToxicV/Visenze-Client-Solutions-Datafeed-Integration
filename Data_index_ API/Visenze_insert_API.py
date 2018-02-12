@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from visearch import client
 import csv
 import urllib.request
